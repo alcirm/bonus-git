@@ -1,0 +1,10 @@
+{
+  "name": "Bonus.Git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alcir Marcon <alcir@softsa.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
